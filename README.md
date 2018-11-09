@@ -1,3 +1,6 @@
+# Tutorial
+This is part of the Jami Bot tutorial on YouTube: https://youtu.be/wC1eZNE5cMc
+
 # Auth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
