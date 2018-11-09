@@ -1,5 +1,5 @@
 # Tutorial
-This is part of the Jami Bot tutorial on YouTube: https://youtu.be/wC1eZNE5cMc
+This is part of the [Jami Bot tutorial for Firebase UI Auth](https://youtu.be/wC1eZNE5cMc)
 
 # Auth
 
