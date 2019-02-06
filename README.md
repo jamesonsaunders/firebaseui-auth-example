@@ -4,7 +4,7 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Fire
 
 A simple example of how to get the firebase UI auth working on your own site.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot).
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
 
 ## Development server
 
