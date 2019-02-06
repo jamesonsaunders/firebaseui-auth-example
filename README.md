@@ -4,6 +4,8 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Fire
 
 A simple example of how to get the firebase UI auth working on your own site.
 
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
