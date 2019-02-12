@@ -1,6 +1,8 @@
 {
   "name": "auth",
   "version": "0.0.0",
+  "author": "Jami Bot",
+  "homepage": "https://jamibot.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
