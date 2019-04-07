@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Firebase UI Auth](https://youtu.be/wC1eZNE5cMc).
 
-[![Firebase UI Auth](https://img.youtube.com/vi/wC1eZNE5cMc/0.jpg)](https://youtu.be/wC1eZNE5cMc)
+[![Firebase UI Auth](https://img.youtube.com/vi/wC1eZNE5cMc/maxresdefault.jpg)](https://youtu.be/wC1eZNE5cMc)
 
 A simple example of how to get the firebase UI auth working on your own site.
 
